@@ -7,3 +7,4 @@ Here are some examples from an interactive desktop application I'd built with Ad
   * Shell (app controller)
   * Timeout (tracks the users interaction with the app and whether the application should reset itself)
   * Overlay (shared controller between instances of global overlays throughout the app)
+* All pieces are implemented for via the applications document class __InteractivePanel__
