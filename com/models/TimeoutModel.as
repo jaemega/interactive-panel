@@ -1,7 +1,7 @@
 ﻿package com.models {
 	import flash.events.EventDispatcher;
 	
-	public class TimeoutModel {
+	public class TimeoutModel extends EventDispatcher {
 		private var _shellElements:Object;
 
 		public function TimeoutModel() {
