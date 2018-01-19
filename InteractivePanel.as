@@ -12,7 +12,7 @@
 		private var _shell:Sprite;
 		private var _model:ShellModel;
 
-		public function UcerisInteractivePanel() {
+		public function InteractivePanel() {
 			super();
 			
 			_shell = this;
