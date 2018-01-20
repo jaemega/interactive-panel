@@ -91,8 +91,6 @@
 				deactivateAll();				
 				open();
 			}
-			
-			trace(_model.id + ' : isOpen = ' + isOpen);
 		}
 		
 		private function onPathAdded(e:Event):void {
